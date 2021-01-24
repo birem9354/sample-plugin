@@ -1,0 +1,4 @@
+name: sample-plugin
+main: com.github.birem.Main
+api-version: '1.16'
+version: 0.1-init
